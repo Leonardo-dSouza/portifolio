@@ -63,6 +63,56 @@ O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, com os
 ### Problema
 Para os alunos que iniciam no universo da programação e nas disciplinas de integração, os conceitos e métodos do SCRUM (cerimônias, papéis, artefatos, ritos) muitas vezes parecem vagos e complexos. O grande gargalo das equipes nos semestres iniciais era tentar entender o funcionamento prático só através das leituras acadêmicas, sem conseguir reter as informações e aplicar corretamente a metodologia nas entregas do semestre, bagunçando prazos e atrasando desenvolvimentos.
 
+<!-- PAREI AQIU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -->
+
+
 ### Solução
 Desenvolvemos o "Scrum Tutor", uma aplicação voltada para fixar de modo interativo todo o processo do framework SCRUM. O portal abordou o treinamento didático, facilitando os estudos de alunos iniciantes sobre os fluxos ágeis organizacionais a fim de que os demais colegas pudessem ter uma transição mais tranquila nas práticas estruturadas exigidas pelo mercado de trabalho.
 

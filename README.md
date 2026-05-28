@@ -136,8 +136,8 @@ https://github.com/CodeDontBlow/Scrum-Tutor
 Atuei como **Desenvolvedor** com maior foco de aprendizado estruturador sobre a criação web. Ajudei construindo os arquivos e folhas de estilo CSS, posicionando textos educativos do conteúdo e realizando commits na branch de forma ainda elementar. Essa primeira experiência foi vital para me organizar em grupo e alinhar as frequências do acompanhamento quinzenal dos processos propostos pelo grupo.
 
 ### Hard Skills
-- **HTML e CSS** — Faço com ajuda
-- **Noções de Git/GitHub** — Faço com ajuda
+- **HTML e CSS** — Fazia com ajuda
+- **Noções de Git/GitHub** — Faço com autonomia
 
 ### Soft Skills
 - **Engajamento inicial:** Consegui alinhar minhas rotinas de tempo exigidas para adaptar a formatação básica da tecnologia.

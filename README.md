@@ -19,29 +19,29 @@
 
 Meu nome é Leonardo Cristiano de Souza, tenho 20 anos e sou estudante do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos “Prof. Jessen Vidal”.
 
-Minha trajetória começou no atendimento do Portal Lanches, onde trabalhei por cinco anos. Essa experiência me ensinou muito sobre lidar com o público, comunicação clara, trabalho em equipe e rápida resolução de problemas sob pressão da operação diária. O interesse em entender como a tecnologia funciona por trás dos bastidores me motivou a fazer a transição para a área de TI.
+Minha trajetória começou no atendimento no Portal Lanches, onde trabalhei por cinco anos. Essa experiência me ensinou muito sobre lidar com o público, comunicação clara, trabalho em equipe e rápida resolução de problemas sob pressão da operação diária. O interesse em entender como a tecnologia funciona por trás dos bastidores veio devido ao meu pai, que trabalhava consertando notebooks e computadores. Isso me motivou a fazer a transição para a área de Desenvolvimento de Software.
 
-Ao longo da minha graduação, tenho evoluído de forma muito linear. No início, construí uma base sólida em Estruturas de Dados e Programação Orientada a Objetos. Hoje, venho concentrando meus estudos em áreas de infraestrutura e inteligência artificial, aprimorando ativamente meus conhecimentos em Cloud Computing (AWS), Sistemas Linux, Hardware e Processamento de Linguagem Natural (NLP). 
+Ao longo da minha graduação, tenho evoluído de forma muito linear. No início, construí uma base sólida em Estruturas de Dados e Programação Orientada a Objetos. Hoje, venho concentrando meus estudos em áreas de infraestrutura e arquitetura de sistemas, devops e llm, aprimorando ativamente meus conhecimentos em Cloud Computing (AWS), Sistemas Linux, Hardware e desenvolvimento/estudos com IA. 
 
-Além das atividades curriculares, busco me envolver em competições para testar meus conhecimentos. Participei recentemente das maratonas da InterFatecs e da 1ª Maratona SBC Paulista de Programação. Ter contato com programação competitiva me ajudou muito a fortalecer meu raciocínio lógico, além da experiência de trabalhar em equipe lidando com o tempo limite da prova.
+Além das atividades curriculares, participo de competições para testar meus conhecimentos. Participei ultimamente das maratonas da InterFatecs e da 1ª Maratona SBC Paulista de Programação. Ter contato com programação competitiva me ajudou muito a fortalecer meu raciocínio lógico, hards skills em estrutura de dados e programação linear, além da experiência de trabalhar em equipe lidando com o tempo limite da prova.
 
 ## Contatos
 
-- **GitHub:** https://github.com/Leonardo-dSouza
-- **LinkedIn:** https://www.linkedin.com/in/leonardo-cristiano-de-souza-b982b4229/
-- **Email:** leonardovilas2014@gmail.com
+- <img src="https://skillicons.dev/icons?i=github" width="20" align="center"/> **GitHub:** https://github.com/Leonardo-dSouza
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20" align="center"/> **LinkedIn:** https://www.linkedin.com/in/leonardo-cristiano-de-souza-b982b4229/
+- <img src="https://skillicons.dev/icons?i=gmail" width="20" align="center"/> **Email:** leonardovilas2014@gmail.com
 
 ## Meus Principais Conhecimentos
 
-Meus estudos e projetos focam bastante no desenvolvimento back-end, dados e infraestrutura. Atualmente possuo experiência prática nas seguintes tecnologias:
+Meus estudos e projetos focam bastante no desenvolvimento back-end, dados e infraestrutura. Atualmente possuo experiência prática e sólidas nas seguintes tecnologias:
 
-- **Python & Pandas:** Extração, limpeza e análise de grandes volumes de dados (ETL).
-- **TypeScript (NestJS):** Desenvolvimento de APIs modulares e escaláveis com integrações em tempo real (Websockets).
-- **Banco de Dados:** Atuação na criação e manipulação em PostgreSQL e MySQL, além do uso do Redis para estratégias ágeis de cache.
-- **Java:** Criação de aplicações Desktop implementando lógicas de Design Patterns.
-- **Cloud & Infraestrutura (AWS, Docker, Terraform):** Implantação e gerenciamento de servidores EC2 em nuvem, conteinerização de aplicações e desenvolvimento ágil focado na prática de Infrastructure as Code (IaC).
-- **Inteligência Artificial (Ollama, ChromaDB):** Teste, ajuste paramétrico e configuração de LLMs rodando localmente para visão computacional, além de desenvolvimento em RAG e busca semântica em banco de dados vetorial.
-- **Metodologia Ágil (Scrum):** Vivência direta na organização e liderança de projetos, seja como Desenvolvedor, Scrum Master ou Product Owner.
+- <img src="https://skillicons.dev/icons?i=python" width="20" align="center"/> **Python & Pandas:** Extração, limpeza e análise de grandes volumes de dados (ETL), desenvolvimento de apis rest com FastApi e Flask e estudos de algoritmos para maratonas de programação.
+- <img src="https://skillicons.dev/icons?i=ts,nestjs,prisma" width="60" align="center"/> **TypeScript (NestJS):** Desenvolvimento de APIs Rest modulares escaláveis e integrações em tempo real (Websockets).
+- <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongo" width="100" align="center"/> **Banco de Dados:** Atuação na criação e manipulação SQL em PostgreSQL e MySQL, NoSQL com mongoDB, uso do Redis para estratégias ágeis de cache, e minio (s3 amazon) para armazenamento de arquivos.
+- <img src="https://skillicons.dev/icons?i=java" width="22" align="center"/> **Java:** Criação de aplicações Desktop implementando lógicas de Design Patterns.
+- <img src="https://skillicons.dev/icons?i=aws,docker,terraform" width="60" align="center"/> **Cloud & Infraestrutura (AWS, Docker, Terraform):** Implantação e gerenciamento de servidores EC2 em nuvem, conteinerização de aplicações e desenvolvimento ágil focado na prática de Infrastructure as Code (IaC).
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png"  width="13" align="center"/> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chroma.png" width="14"/> **Inteligência Artificial (Ollama, ChromaDB):** Teste, ajuste paramétrico e configuração de LLMs rodando localmente para visão computacional, além de desenvolvimento em RAG e busca semântica em banco de dados vetorial.
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/configarr.png" width="20" align="center"/> **Metodologia Ágil (Scrum):** Vivência direta na organização e liderança de projetos, seja como Desenvolvedor, Scrum Master e Product Owner.
 
 ## Projetos Desenvolvidos
 
@@ -49,7 +49,7 @@ Meus estudos e projetos focam bastante no desenvolvimento back-end, dados e infr
 | --- | --- | --- | --- | --- |
 | [1º Semestre (2024-1)](#1º-semestre-2024-1---scrum-tutor) | Scrum Tutor | HTML, CSS, JavaScript, Python | Fatec-SJC | Aplicação web desenvolvida com o objetivo de ensinar e facilitar a compreensão da metodologia ágil Scrum para alunos iniciantes. |
 | [2º Semestre (2024-2)](#2º-semestre-2024-2---doceye) | DocEye | Java, MySQL, Ollama (IA Local) | Fatec-SJC | Sistema desktop para leitura e extração automatizada de dados de documentos físicos utilizando inteligência artificial local. |
-| [3º Semestre (2025-1)](#3º-semestre-2025-1---pontolog) | PontoLog | Python, Pandas, PostgreSQL, Redis, AWS EC2 | MDIC | Plataforma web robusta capaz de processar anos de fluxos de planilhas de importação e exportação de forma eficiente no Brasil. |
+| [3º Semestre (2025-1)](#3º-semestre-2025-1---pontolog) | PontoLog | Python, Pandas, PostgreSQL, Redis, AWS EC2 | Marcos | Plataforma web robusta capaz de processar anos de fluxos de planilhas de importação e exportação de forma eficiente no Brasil. |
 | [4º Semestre (2025-2)](#4º-semestre-2025-2---descriptum) | Descriptum | Python, FastAPI, Ollama, ChromaDB, Docker | TecSys | Agente online validador com capacidade interpretativa autônoma para garantir a descrição correta de produtos a fim de evitar multas aduaneiras. |
 | [5º Semestre (2026-1)](#5º-semestre-2026-1---orbita) | Orbita | TypeScript, NestJS, MinIO, Websockets, Terraform, AWS EC2 | Pro4Tech | Plataforma mobile e web com um sistema de triagem automatizada e atendimento humano em chat de tempo real. |
 
@@ -61,7 +61,7 @@ Meus estudos e projetos focam bastante no desenvolvimento back-end, dados e infr
 O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, com os requisitos guiados pelo professor Antonio Egydio São Tiago Graça. O ambiente buscou simular as integrações corporativas utilizando a metodologia SCRUM na construção de software.
 
 ### Problema
-Para os alunos que iniciam no universo da programação e nas disciplinas de integração, os conceitos e métodos do SCRUM (cerimônias, papéis, artefatos) muitas vezes parecem vagos e complexos. O grande gargalo das equipes nos semestres iniciais era tentar entender o funcionamento prático só através das leituras acadêmicas, sem conseguir reter as informações e aplicar corretamente a metodologia nas entregas do semestre, bagunçando prazos e atrasando desenvolvimentos.
+Para os alunos que iniciam no universo da programação e nas disciplinas de integração, os conceitos e métodos do SCRUM (cerimônias, papéis, artefatos, ritos) muitas vezes parecem vagos e complexos. O grande gargalo das equipes nos semestres iniciais era tentar entender o funcionamento prático só através das leituras acadêmicas, sem conseguir reter as informações e aplicar corretamente a metodologia nas entregas do semestre, bagunçando prazos e atrasando desenvolvimentos.
 
 ### Solução
 Desenvolvemos o "Scrum Tutor", uma aplicação voltada para fixar de modo interativo todo o processo do framework SCRUM. O portal abordou o treinamento didático, facilitando os estudos de alunos iniciantes sobre os fluxos ágeis organizacionais a fim de que os demais colegas pudessem ter uma transição mais tranquila nas práticas estruturadas exigidas pelo mercado de trabalho.
@@ -77,10 +77,10 @@ https://github.com/CodeDontBlow/Scrum-Tutor
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://img.icons8.com/?size=50&id=D2Hi2VkJSi33&format=png" alt="HTML"><br>**HTML** | Utilizado na padronização estrutural na construção correta dos contornos do site educacional fornecido. |
-| <img src="https://img.icons8.com/?size=50&id=YjeKwnSQIBUq&format=png" alt="CSS"><br>**CSS** | Ajuste, espaçamento fluido e padronagem visual estilística adotado. |
-| <img src="https://img.icons8.com/?size=50&id=108784&format=png" alt="JavaScript"><br>**JavaScript** | Adição de interatividade no lado do cliente para reter a atenção do estudante. |
-| <img src="https://img.icons8.com/?size=50&id=20906&format=png" alt="Git"><br>**Git / GitHub** | Acervo primário focado colaborativamente na introdução segura e versionamento coerente do grupo. |
+| <img src="https://skillicons.dev/icons?i=html" alt="HTML"><br>**HTML** | Utilizado na padronização estrutural na construção correta dos contornos do site educacional fornecido. |
+| <img src="https://skillicons.dev/icons?i=css" alt="CSS"><br>**CSS** | Ajuste, espaçamento fluido e padronagem visual estilística adotado. |
+| <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br>**JavaScript** | Adição de interatividade no lado do cliente para reter a atenção do estudante. |
+| <img src="https://skillicons.dev/icons?i=git,github" alt="Git"><br>**Git / GitHub** | Acervo primário focado colaborativamente na introdução segura e versionamento coerente do grupo. |
 
 ### Contribuições Pessoais
 Atuei como **Desenvolvedor** com maior foco de aprendizado estruturador sobre a criação web. Ajudei construindo os arquivos e folhas de estilo CSS, posicionando textos educativos do conteúdo e realizando commits na branch de forma ainda elementar. Essa primeira experiência foi vital para me organizar em grupo e alinhar as frequências do acompanhamento quinzenal dos processos propostos pelo grupo.
@@ -117,9 +117,9 @@ https://github.com/CodeDontBlow/DocEye
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://img.icons8.com/?size=50&id=13679&format=png" alt="Java"><br>**Java** | Construção orientada a objetos da interface Desktop e regras de persistência das chaves extraídas (JDBC nativo). |
-| <img src="https://img.icons8.com/?size=50&id=hH4R7D9fW7R0&format=png" alt="Ollama"><br>**Ollama** | Instanciado localmente, roda um motor de Visão Computacional (VLM) prestando a leitura de documentação offline. |
-| <img src="https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png" alt="MySQL"><br>**MySQL** | Recepção dos inserts de forma segura na base estrita relacional. |
+| <img src="https://skillicons.dev/icons?i=java" alt="Java"><br>**Java** | Construção orientada a objetos da interface Desktop e regras de persistência das chaves extraídas (JDBC nativo). |
+| <img src="https://skillicons.dev/icons?i=ai" alt="Ollama"><br>**Ollama** | Instanciado localmente, roda um motor de Visão Computacional (VLM) prestando a leitura de documentação offline. |
+| <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"><br>**MySQL** | Recepção dos inserts de forma segura na base estrita relacional. |
 
 ### Contribuições Pessoais
 Para suprir o avanço orgânico na complexidade da equipe, assumi formalmente o papel gerencial de **Scrum Master**. Ajudei os líderes de codificação organizando rituais de review visando destravar incertezas operacionais da equipe acerca da linguagem de paradigmas robustos (Java).
@@ -149,7 +149,7 @@ Para a verificação fiscal do desempenho inter-regional e nacional do país, o 
 A equipe estruturou a interface "PontoLog", encarregada de filtrar severamente de forma assíncrona todas as bases de log brasileiras aduaneiras utilizando o framework Pandas e um repositório isolador seguro AWS. A interface se torna de simples acesso via web aos interessados com gráficos rápidos de consultas, apontando variações sazonais, quedas brutas logísticas nacionais, etc.
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=46630&format=png" width="80" alt="Logo Generico PontoLog"/> <br> <i>PontoLog (Web Data Analytics)</i>
+  <img src="https://skillicons.dev/icons?i=python,aws" width="100" alt="Logo Generico PontoLog"/> <br> <i>PontoLog (Web Data Analytics)</i>
 </p>
 
 ### Link do Repositório Git
@@ -159,10 +159,10 @@ https://github.com/CodeDontBlow/PontoLog-Backend
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://img.icons8.com/?size=50&id=13441&format=png" alt="Python"><br>**Python (Pandas)** | Estruturação massiva orientada às filtragens de dados brutos provenientes das tabelas governamentais extensas. |
-| <img src="https://img.icons8.com/?size=50&id=38561&format=png" alt="PostgreSQL"><br>**PostgreSQL** | Sistema relacional operando processamentos em cima de modelamento analítico focado em Star Schema. |
-| <img src="https://img.icons8.com/?size=50&id=17255&format=png" alt="Redis"><br>**Redis** | Trabalhado sob armazenamento rápido em memória volátil contornando o acesso lento à leitura dos discos (I/O) mitigando o atraso nos requests. |
-| <img src="https://img.icons8.com/?size=50&id=33039&format=png" alt="AWS"><br>**AWS EC2** | Nuvem que viabilizou subir a arquitetura completa em um host isolado implementando o Certbot HTTPS. |
+| <img src="https://skillicons.dev/icons?i=python" alt="Python"><br>**Python (Pandas)** | Estruturação massiva orientada às filtragens de dados brutos provenientes das tabelas governamentais extensas. |
+| <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br>**PostgreSQL** | Sistema relacional operando processamentos em cima de modelamento analítico focado em Star Schema. |
+| <img src="https://skillicons.dev/icons?i=redis" alt="Redis"><br>**Redis** | Trabalhado sob armazenamento rápido em memória volátil contornando o acesso lento à leitura dos discos (I/O) mitigando o atraso nos requests. |
+| <img src="https://skillicons.dev/icons?i=aws" alt="AWS"><br>**AWS EC2** | Nuvem que viabilizou subir a arquitetura completa em um host isolado implementando o Certbot HTTPS. |
 
 ### Contribuições Pessoais
 Neste ciclo consolidei o foco e estudei aprofundadamente as engenharias densas voltando como **Desenvolvedor**. Descarreguei do Colab e realizei tratativas de Data Science em uma imensa lacuna decenal (10 anos documentados abertos). Usando metodologias de extração (ETL), estruturei a formatação CSV englobada e exata somando incríveis 15 milhões de transações logísticas isoladas e livres de redundância corrompida.
@@ -202,9 +202,9 @@ https://github.com/CodeDontBlow/Tecsys-backend
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://img.icons8.com/?size=50&id=AFBofhshO3kX&format=png" alt="FastAPI"><br>**FastAPI** | Arquitetura backend modular e veloz (Python) focada em rotas com validações estritas providas pelo Pydantic. |
-| <img src="https://img.icons8.com/?size=50&id=hH4R7D9fW7R0&format=png" alt="Ollama/ChromaDB"><br>**Ollama & ChromaDB** | Motores responsáveis pela Inteligência Artificial local, processamento de NLP e pesquisa semântica dos bancos vetoriais (Mecanismo RAG). |
-| <img src="https://img.icons8.com/?size=50&id=22813&format=png" alt="Docker"><br>**Docker** | Conteinerização completa, acoplando frontend e bancos isolados na rodagem dos sistemas para a nuvem sem atritos sistêmicos. |
+| <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"><br>**FastAPI** | Arquitetura backend modular e veloz (Python) focada em rotas com validações estritas providas pelo Pydantic. |
+| <img src="https://skillicons.dev/icons?i=ai" alt="Ollama/ChromaDB"><br>**Ollama & ChromaDB** | Motores responsáveis pela Inteligência Artificial local, processamento de NLP e pesquisa semântica dos bancos vetoriais (Mecanismo RAG). |
+| <img src="https://skillicons.dev/icons?i=docker" alt="Docker"><br>**Docker** | Conteinerização completa, acoplando frontend e bancos isolados na rodagem dos sistemas para a nuvem sem atritos sistêmicos. |
 
 ### Contribuições Pessoais
 No núcleo, abracei a responsabilidade gerencial direta focada ao avanço tecnológico tomando as frentes como **Product Owner (PO)**. Assinalei e decretei as diretrizes fundamentais da infraestrutura focada na IA de modo disruptivo à necessidade portuária, priorizando firmemente que as equipes adotassem conceitos densos arquiteturais baseados em RAG (Retrieval-Augmented Generation). 
@@ -242,10 +242,10 @@ https://github.com/CodeDontBlow/pro4tech-Orbita
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://img.icons8.com/?size=50&id=1Xl8O5c2DEnk&format=png" alt="NestJS"><br>**NestJS / TypeScript** | Isolamento e injeção de dependência na rotina relacional suportando alocações na consolidação modular da API corporativa. |
-| <img src="https://img.icons8.com/?size=50&id=46630&format=png" alt="Websockets"><br>**Websockets** | Estruturação de canais duplos garantindo a comunicação in-time na interface dos chats do suporte sem perdas por latência. |
-| <img src="https://img.icons8.com/?size=50&id=22813&format=png" alt="MinIO/S3"><br>**MinIO Storage S3** | Recurso emulativo compatível com AWS S3 criado contornando a gravação crua nos bancos persistindo com inteligência arquivos de anexo (imagens) submetidos ao chat. |
-| <img src="https://img.icons8.com/?size=50&id=yPZHEEkiRymG&format=png" alt="Terraform"><br>**Terraform (IaC)** | Desenvolvimento base provendo as codificações automatizadoras que constroem as réplicas simultâneas de servidores AWS sob script nativo declarativo (User Data). |
+| <img src="https://skillicons.dev/icons?i=nestjs,ts" alt="NestJS"><br>**NestJS / TypeScript** | Isolamento e injeção de dependência na rotina relacional suportando alocações na consolidação modular da API corporativa. |
+| <img src="https://skillicons.dev/icons?i=js" alt="Websockets"><br>**Websockets** | Estruturação de canais duplos garantindo a comunicação in-time na interface dos chats do suporte sem perdas por latência. |
+| <img src="https://skillicons.dev/icons?i=aws" alt="MinIO/S3"><br>**MinIO Storage S3** | Recurso emulativo compatível com AWS S3 criado contornando a gravação crua nos bancos persistindo com inteligência arquivos de anexo (imagens) submetidos ao chat. |
+| <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"><br>**Terraform (IaC)** | Desenvolvimento base provendo as codificações automatizadoras que constroem as réplicas simultâneas de servidores AWS sob script nativo declarativo (User Data). |
 
 ### Contribuições Pessoais
 Ascendi como líder arquitetural tomando inteiramente a frente como **Dev Backend Lead**. Elaborei um fluxo inquestionavelmente seguro através das bases de diagrama isolando módulos, e fui o absoluto detentor regrador do versionamento assumindo "Code Ownership", guiando revisões puristas severas no padrão do time mantendo extrema obediência na aplicação aos códigos nas pull-requests (Clean Code) sob amparo relacional estruturado no Node base. Integrei com injeção segura na base Nestjs as lógicas transacionais conectivas implementadas as reatividades síncronas semânticas via WebSockets amparando suportes interativos sem perda paralela no banco isolador estático configurado as rotinas provedoras MinIO S3 resguardando envios de imagens dos tickets reativos nativamente.

@@ -49,9 +49,9 @@ Meus estudos e projetos focam bastante no desenvolvimento back-end, dados e infr
 | --- | --- | --- | --- | --- |
 | [1º Semestre (2024-1)](#1º-semestre-2024-1---scrum-tutor) | Scrum Tutor | HTML, CSS, JavaScript, Python | Fatec-SJC | Aplicação web desenvolvida com o objetivo de ensinar e facilitar a compreensão da metodologia ágil Scrum para alunos iniciantes. |
 | [2º Semestre (2024-2)](#2º-semestre-2024-2---doceye) | DocEye | Java, MySQL, Ollama (IA Local) | Fatec-SJC | Sistema desktop para leitura e extração automatizada de dados de documentos físicos utilizando inteligência artificial local. |
-| [3º Semestre (2025-1)](#3º-semestre-2025-1---pontolog) | PontoLog | Python, Pandas, PostgreSQL, Redis, AWS EC2 | Marcos | Plataforma web robusta capaz de processar anos de fluxos de planilhas de importação e exportação de forma eficiente no Brasil. |
+| [3º Semestre (2025-1)](#3º-semestre-2025-1---pontolog) | PontoLog | TypeScript, Node.js, React, Python, PostgreSQL, Redis, AWS | Marcos | Plataforma web robusta capaz de processar anos de fluxos de planilhas de importação e exportação de forma eficiente no Brasil. |
 | [4º Semestre (2025-2)](#4º-semestre-2025-2---descriptum) | Descriptum | Python, FastAPI, Ollama, ChromaDB, Docker | TecSys | Agente online validador com capacidade interpretativa autônoma para garantir a descrição correta de produtos a fim de evitar multas aduaneiras. |
-| [5º Semestre (2026-1)](#5º-semestre-2026-1---orbita) | Orbita | TypeScript, NestJS, MinIO, Websockets, Terraform, AWS EC2 | Pro4Tech | Plataforma mobile e web com um sistema de triagem automatizada e atendimento humano em chat de tempo real. |
+| [5º Semestre (2026-1)](#5º-semestre-2026-1---orbita) | Orbita | TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Docker, React, Terraform | Pro4Tech | Plataforma mobile e web com um sistema de triagem automatizada e atendimento humano em chat de tempo real. |
 
 ---
 
@@ -63,61 +63,11 @@ O projeto foi desenvolvido em parceria com a FATEC São José dos Campos, com os
 ### Problema
 Para os alunos que iniciam no universo da programação e nas disciplinas de integração, os conceitos e métodos do SCRUM (cerimônias, papéis, artefatos, ritos) muitas vezes parecem vagos e complexos. O grande gargalo das equipes nos semestres iniciais era tentar entender o funcionamento prático só através das leituras acadêmicas, sem conseguir reter as informações e aplicar corretamente a metodologia nas entregas do semestre, bagunçando prazos e atrasando desenvolvimentos.
 
-<!-- PAREI AQIU
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- -->
-
-
 ### Solução
 Desenvolvemos o "Scrum Tutor", uma aplicação voltada para fixar de modo interativo todo o processo do framework SCRUM. O portal abordou o treinamento didático, facilitando os estudos de alunos iniciantes sobre os fluxos ágeis organizacionais a fim de que os demais colegas pudessem ter uma transição mais tranquila nas práticas estruturadas exigidas pelo mercado de trabalho.
 
 <p align="center">
-  <img src="../projetos-que-eu-participei/Scrum-Tutor/static/img/logos/STlogoG.svg" width="200" alt="Logo Scrum Tutor"/>
+  <img src="https://raw.githubusercontent.com/CodeDontBlow/Scrum-Tutor/f778385613543eb39e30b2c73f2d0692ffae1bbb/static/img/logos/STlogoG.svg" width="200" alt="Logo Scrum Tutor"/>
 </p>
 
 ### Link do Repositório Git
@@ -131,13 +81,17 @@ https://github.com/CodeDontBlow/Scrum-Tutor
 | <img src="https://skillicons.dev/icons?i=css" alt="CSS"><br>**CSS** | Ajuste, espaçamento fluido e padronagem visual estilística adotado. |
 | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br>**JavaScript** | Adição de interatividade no lado do cliente para reter a atenção do estudante. |
 | <img src="https://skillicons.dev/icons?i=git,github" alt="Git"><br>**Git / GitHub** | Acervo primário focado colaborativamente na introdução segura e versionamento coerente do grupo. |
+| <img src="https://skillicons.dev/icons?i=flask" alt="Flask"><br>**Flask** | Utilizado para parte lógica, funções, conexão com o banco de dados e as perguntas gameficadas. |
+| <img src="https://skillicons.dev/icons?i=mysql" alt="Mysql"><br>**Mysql** | Persistencia de dados como: usuário, nota de avaliação do curso, perguntas e respostas, etc. |
 
 ### Contribuições Pessoais
-Atuei como **Desenvolvedor** com maior foco de aprendizado estruturador sobre a criação web. Ajudei construindo os arquivos e folhas de estilo CSS, posicionando textos educativos do conteúdo e realizando commits na branch de forma ainda elementar. Essa primeira experiência foi vital para me organizar em grupo e alinhar as frequências do acompanhamento quinzenal dos processos propostos pelo grupo.
+Atuei como **Desenvolvedor** com maior foco de aprendizado estruturador sobre a criação web e server-side. Ajudei construindo os arquivos e folhas de estilo CSS, manuntenção do flask e criação lógicas, conexões com o banco de dados, e realizando commits na branch de forma ainda elementar. Essa primeira experiência foi vital para me organizar em grupo e alinhar as frequências do acompanhamento dos processos propostos pelo grupo.
 
 ### Hard Skills
 - **HTML e CSS** — Fazia com ajuda
+- **Flask e Conceitos Backend** - Fazia com ajuda
 - **Noções de Git/GitHub** — Faço com autonomia
+- **Mysql** - Faço com autonomia
 
 ### Soft Skills
 - **Engajamento inicial:** Consegui alinhar minhas rotinas de tempo exigidas para adaptar a formatação básica da tecnologia.
@@ -151,13 +105,15 @@ Atuei como **Desenvolvedor** com maior foco de aprendizado estruturador sobre a 
 Desenvolvido ainda com o cliente acadêmico FATEC (sob tutela do Professor Giuliano Bertoti), a simulação abordou um aspecto inteiramente direcionado a automatizar rotinas visuais a fim de combater os trabalhos manuais cansativos.
 
 ### Problema
-Milhões de cadastros ainda impulsionam grandes demoras departamentais porque um operador físico precisa manualmente redigitar dados preenchidos a partir da leitura de documentos de identidade digitalizados (RGs, CPFs). Além disso, delegar os processamentos sensíveis destes lotes às APIs pagas e na nuvem esbarra em políticas sérias da Lei Geral de Proteção de Dados (LGPD).
+Milhões de cadastros ainda impulsionam grandes demoras departamentais porque um operador físico precisa manualmente redigitar dados preenchidos a partir da leitura de curriculos de candidatos. Além disso, delegar os processamentos sensíveis destes lotes às APIs pagas e na nuvem esbarra em políticas sérias da Lei Geral de Proteção de Dados (LGPD).
 
 ### Solução
-A equipe criou a aplicação Desktop **DocEye**, um validador de imagem desenhado nativamente em Java focado em operar offline em qualquer máquina corporativa. O sistema embute a leitura ótica suportada pelo processador de inteligência artificial (Ollama), extraindo as strings textuais corretamente do layout das fotos (separando a validade, a cidade e os nomes) enviando-as a uma base segura MySQL com necessidade de interferência humana apenas num caso ou outro de extrema ilegibilidade para correções.
+A nossa equipe criou a aplicação Desktop **DocEye**, um validador de imagem desenhado nativamente em Java focado em operar offline em qualquer máquina corporativa. O sistema embute a leitura ótica suportada pelo processador de inteligência artificial (Ollama), extraindo as strings textuais corretamente do layout das fotos (separando a validade, a cidade e os nomes) enviando-as a uma base segura MySQL com necessidade de interferência humana apenas num caso ou outro de extrema ilegibilidade para correções, tendo funcionalidades principais como filtrar candidatos por proeficiencias, qualidades, palavras chaves e etc.
 
 <p align="center">
-  <img src="../projetos-que-eu-participei/DocEye/docs/logos/logo.png" width="300" alt="Logo DocEye"/>
+<video src="https://github.com/user-attachments/assets/cfbeafe9-02f1-4d6c-96b3-4dd9c57c8d21" controls width="100%">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
 </p>
 
 ### Link do Repositório Git
@@ -172,7 +128,7 @@ https://github.com/CodeDontBlow/DocEye
 | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"><br>**MySQL** | Recepção dos inserts de forma segura na base estrita relacional. |
 
 ### Contribuições Pessoais
-Para suprir o avanço orgânico na complexidade da equipe, assumi formalmente o papel gerencial de **Scrum Master**. Ajudei os líderes de codificação organizando rituais de review visando destravar incertezas operacionais da equipe acerca da linguagem de paradigmas robustos (Java).
+Assumi o papel gerencial de **Scrum Master**. Ajudei os líderes de codificação organizando rituais de review visando destravar incertezas operacionais da equipe acerca da linguagem de paradigmas robustos (Java).
 Já na contribuição técnica como desenvolvedor atuei profundamente dentro da IA: configurei o arquivo descritor (*Modelfile*) dentro da LLM testando limites de Temperature, Prompt Sistêmico avançado e ajustes Top-k, conseguindo eliminar mais de 50% das alucinações cognitivas nas leituras óticas, elevando a precisão do reconhecimento visual. Por fim, participei formulando as consultas da aplicação no SQL usando JDBC nativamente sem usar mapeamentos ORM (como o Hibernate), focando num aprendizado sólido nativo.
 
 ### Hard Skills
@@ -190,29 +146,39 @@ Já na contribuição técnica como desenvolvedor atuei profundamente dentro da 
 ## 3º Semestre (2025-1) - PontoLog
 
 ### Empresa Parceira
-O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), provendo as bases massivas diárias de Dados Abertos oficiais referentes a comercializações e as barreiras comerciais que delimitam importação ou exportação governamental.
+Profesor interno da fatec, Marcos de logistica. Propos um desafio as bases massivas diárias de Dados Abertos oficiais referentes a comercializações e as barreiras comerciais que delimitam importação ou exportação governamental.
 
 ### Problema
 Para a verificação fiscal do desempenho inter-regional e nacional do país, o MDIC disponibiliza as matrizes públicas oficiais. No entanto, os relatórios em formato limpo se tornam impraticáveis porque consistem em anos agrupados em incontáveis matrizes textuais confusas e extensas. Qualquer analista convencional não pode abri-las domesticamente em sistemas de controle tradicionais por limitações computacionais, obscurecendo conclusões lógicas precisas aos estados e indústrias comerciais perante as importações.
 
 ### Solução
-A equipe estruturou a interface "PontoLog", encarregada de filtrar severamente de forma assíncrona todas as bases de log brasileiras aduaneiras utilizando o framework Pandas e um repositório isolador seguro AWS. A interface se torna de simples acesso via web aos interessados com gráficos rápidos de consultas, apontando variações sazonais, quedas brutas logísticas nacionais, etc.
+A equipe estruturou a interface "PontoLog", encarregada de filtrar severamente de forma assíncrona todas as bases de log brasileiras aduaneiras em 10 anos utilizando o framework Pandas e um repositório isolador seguro AWS. A interface se torna de simples acesso via web aos interessados com gráficos rápidos de consultas, apontando variações sazonais, quedas brutas logísticas nacionais, etc.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws" width="100" alt="Logo Generico PontoLog"/> <br> <i>PontoLog (Web Data Analytics)</i>
+<img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png">
+  <img src="https://skillicons.dev/icons?i=python,aws," width="150" alt="Logo Generico PontoLog"/> <br> <i>PontoLog (Web Data Analytics)</i>
+
 </p>
 
 ### Link do Repositório Git
 https://github.com/CodeDontBlow/PontoLog-Backend
+<p align="center">
+<video src="https://github.com/user-attachments/assets/d6089415-5337-47e2-8290-e0faa86d68e5" controls width="100%">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
+</p>
+
 
 ### Tecnologias Utilizadas
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=python" alt="Python"><br>**Python (Pandas)** | Estruturação massiva orientada às filtragens de dados brutos provenientes das tabelas governamentais extensas. |
-| <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br>**PostgreSQL** | Sistema relacional operando processamentos em cima de modelamento analítico focado em Star Schema. |
+| <img src="https://skillicons.dev/icons?i=ts,nodejs" alt="TypeScript e Node.js"><br>**TypeScript & Node.js** | Desenvolvimento principal do backend utilizando arquitetura RESTful para orquestração e fornecimento dos dados. |
+| <img src="https://skillicons.dev/icons?i=react" alt="React"><br>**React** | Construção da interface do usuário (Frontend) interativa e ágil para consumo e visualização das métricas. |
+| <img src="https://skillicons.dev/icons?i=python" alt="Python"> <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png"><br>**Python e Pandas** | Estruturação massiva orientada às filtragens de dados brutos provenientes das tabelas governamentais extensas. |
+| <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br>**PostgreSQL & TypeORM** | Sistema relacional operando processamentos em cima de modelamento analítico focado em Star Schema, integrado via TypeORM. |
 | <img src="https://skillicons.dev/icons?i=redis" alt="Redis"><br>**Redis** | Trabalhado sob armazenamento rápido em memória volátil contornando o acesso lento à leitura dos discos (I/O) mitigando o atraso nos requests. |
-| <img src="https://skillicons.dev/icons?i=aws" alt="AWS"><br>**AWS EC2** | Nuvem que viabilizou subir a arquitetura completa em um host isolado implementando o Certbot HTTPS. |
+| <img src="https://skillicons.dev/icons?i=aws" alt="AWS"><br>**AWS EC2** | Nuvem que viabilizou subir a arquitetura completa em um host isolado implementando o Certbot letsencrypt HTTPS. |
 
 ### Contribuições Pessoais
 Neste ciclo consolidei o foco e estudei aprofundadamente as engenharias densas voltando como **Desenvolvedor**. Descarreguei do Colab e realizei tratativas de Data Science em uma imensa lacuna decenal (10 anos documentados abertos). Usando metodologias de extração (ETL), estruturei a formatação CSV englobada e exata somando incríveis 15 milhões de transações logísticas isoladas e livres de redundância corrompida.
@@ -242,31 +208,41 @@ Para internalizar mercadorias ao país, é cobrada normativamente das indústria
 Nascimento corporativo integrável baseado essencialmente como um robô inteligente, a aplicação "Descriptum" validador automatizou a análise inteligente e não pautada puramente na formatação impressa da fabricante. Pelo suporte cognitivo aprofundado, cruza a busca de forma contextual garantindo que componentes analíticos classificados recebam NCM correto isentando passivos perante a federação fiscal. 
 
 <p align="center">
-  <img src="../projetos-que-eu-participei/Tecsys-Descriptum/docs/assets/logo.png" width="300" alt="Logo Descriptum"/>
+  <img src="https://raw.githubusercontent.com/CodeDontBlow/Tecsys-Descriptum/4170e1679d0beec2372a3e27d82e3481c3b4bf19/docs/assets/Descriptum_Logo.svg" width="300" alt="Logo Descriptum"/>
 </p>
 
 ### Link do Repositório Git
-https://github.com/CodeDontBlow/Tecsys-backend
+<video src="
+https://github.com/user-attachments/assets/0889e67a-59ae-49ed-935b-6e85c353cb9a" controls width="100%">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
+</p>
+
 
 ### Tecnologias Utilizadas
 
 | Tecnologia | Descrição |
 | :---: | :--- |
 | <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"><br>**FastAPI** | Arquitetura backend modular e veloz (Python) focada em rotas com validações estritas providas pelo Pydantic. |
-| <img src="https://skillicons.dev/icons?i=ai" alt="Ollama/ChromaDB"><br>**Ollama & ChromaDB** | Motores responsáveis pela Inteligência Artificial local, processamento de NLP e pesquisa semântica dos bancos vetoriais (Mecanismo RAG). |
+| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chroma.png" width=50><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" width=30><br>**Ollama & ChromaDB** | Motores responsáveis pela Inteligência Artificial local, processamento de NLP e pesquisa semântica dos bancos vetoriais (Mecanismo RAG). |
 | <img src="https://skillicons.dev/icons?i=docker" alt="Docker"><br>**Docker** | Conteinerização completa, acoplando frontend e bancos isolados na rodagem dos sistemas para a nuvem sem atritos sistêmicos. |
 
 ### Contribuições Pessoais
-No núcleo, abracei a responsabilidade gerencial direta focada ao avanço tecnológico tomando as frentes como **Product Owner (PO)**. Assinalei e decretei as diretrizes fundamentais da infraestrutura focada na IA de modo disruptivo à necessidade portuária, priorizando firmemente que as equipes adotassem conceitos densos arquiteturais baseados em RAG (Retrieval-Augmented Generation). 
-Como consequência técnica direta da minha decisão aloquei e fundamentei a estrutura na linguagem purista contornando flutuações e viabilizei a busca de semânticas exatas na configuração base no ChromaDB atuando acoplado no provedor textual instanciado. Superei gargalos técnicos arcaicos descontinuando de vez os regex amarrados nos campos das documentações de apenas e isolados três moldes antigos, fazendo as IAs acertarem independentemente de milhares novos layouts com o OCR acoplado melhorando incrivelmente e estatisticamente o limite acertos operantes do registro para aprovação plena mitigadora dos atrasos por multa fiscal. Finalizei minha cota implementando isolamentos paralelos unificando base e aplicações sob conteineres de provisões robustas via Compose nos servidores.
+Como desenvolvedor, liderei a definição da arquitetura da infraestrutura voltada para IA, direcionando o time na adoção de soluções baseadas em RAG (Retrieval-Augmented Generation) para aumentar a precisão e escalabilidade do processamento documental.
+Projetei a camada de busca semântica utilizando ChromaDB integrado ao provedor de embeddings, permitindo consultas contextualizadas e maior confiabilidade na recuperação de informações. Também conduzi a remoção de fluxos legados baseados em regex, que limitavam o processamento a poucos layouts estáticos de documentação.
+Com a integração de OCR ao pipeline, a solução passou a interpretar milhares de variações de documentos de forma dinâmica, elevando significativamente a taxa de assertividade da IA e reduzindo falhas operacionais relacionadas a validações fiscais.
+Na infraestrutura, implementei isolamento e padronização dos serviços através de conteinerização com Docker Compose, consolidando aplicações e dependências em ambientes mais resilientes, escaláveis e de fácil provisionamento.
+
+
 
 ### Hard Skills
 - **Semânticas Autônomas Vectoriais RAG e API Rest** — Faço com autonomia
-- **Governança Produtiva Tática Visão de Négocio - PO** — Faço com autonomia
-- **Conteinerização Isomórfica de Imagens Docker** — Faço com autonomia
+- **Visão de do produto e domínio/Regras de negócio - PO** — Faço com autonomia
+- **Conteinerização de Imagens Docker** — Faço com autonomia
 
 ### Soft Skills
-- **Postura Revolucionária Resolutiva:** Assumir o PO me permitiu atenuar as margens antigas, rejeitar soluções caseiras das frentes codificadoras originais desativando abordagens limitadoras antiquadas sem atritos mas provendo uma modernização essencial na IA perante as entregas comerciais atreladas portuárias exigidas nas estâncias tributárias operadoras da importação.
+* **Perfil analítico e proativo:** Atuei junto ao PO na identificação de limitações do sistema antigo, ajudando na modernização das soluções de IA sem gerar atritos no time. Contribuí na substituição de abordagens engessadas por soluções mais escaláveis e eficientes, melhorando a qualidade das entregas e a adaptação às demandas do negócio.
+
 
 ---
 
@@ -276,10 +252,11 @@ Como consequência técnica direta da minha decisão aloquei e fundamentei a est
 Pro4Tech, especializada ativamente perante clientes na otimização sistêmica, buscando melhorias de fluxos corporativos B2B orientados ao atendimento dinâmico e relacional.
 
 ### Problema
-Canais remotos no atendimento técnico rotineiramente fragmentavam a base, operando com atritos por quedas contínuas instáveis nas transferências engessadas entre a fila das frentes humanas amparadora dos contatos e no cliente originário da interação. Dúvidas complexas não mantinham coesos canais com o analista por fragmentação do acesso remoto em ligações convencionais operáveis, retardando atritos do andamento suportador perante avaliações em acompanhamento dos chamados nas esteiras.
+Canais remotos no atendimento técnico O atendimento técnico remoto enfrentava problemas frequentes de instabilidade e perda de contexto durante transferências entre filas e analistas. Em atendimentos mais complexos, o cliente muitas vezes precisava repetir informações devido à fragmentação da comunicação em ligações convencionais, o que impactava diretamente o acompanhamento e a resolução dos chamados.
 
 ### Solução
-Lançamento reativo da suíte central contínua chamada "Orbita". Aplicação central provedora formidavelmente da triagem impecável ligando as interfaces móveis na base fluente em chat bi-direcional centralizando o operador e provendo roteamentos ativos e imunes a perdas estruturais operantes via URA englobadas suportadoras das filas na gestão inteligente e amparadora dos analistas operacionais unificados dinâmicos.
+Desenvolvimento da suíte central de atendimento “Orbita”, focada em centralizar a comunicação entre clientes e analistas por meio de um chat bidirecional integrado às interfaces móveis.
+A solução permitiu roteamento inteligente dos atendimentos via URA, maior estabilidade nas transferências entre filas e melhor acompanhamento operacional, reduzindo perdas de contexto e tornando o fluxo de suporte mais eficiente e organizado.
 
 <p align="center">
   <img src="https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/banner-orbita.png?raw=true" width="500" alt="Logo Orbita"/>
@@ -292,19 +269,24 @@ https://github.com/CodeDontBlow/pro4tech-Orbita
 
 | Tecnologia | Descrição |
 | :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=nestjs,ts" alt="NestJS"><br>**NestJS / TypeScript** | Isolamento e injeção de dependência na rotina relacional suportando alocações na consolidação modular da API corporativa. |
-| <img src="https://skillicons.dev/icons?i=js" alt="Websockets"><br>**Websockets** | Estruturação de canais duplos garantindo a comunicação in-time na interface dos chats do suporte sem perdas por latência. |
-| <img src="https://skillicons.dev/icons?i=aws" alt="MinIO/S3"><br>**MinIO Storage S3** | Recurso emulativo compatível com AWS S3 criado contornando a gravação crua nos bancos persistindo com inteligência arquivos de anexo (imagens) submetidos ao chat. |
-| <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"><br>**Terraform (IaC)** | Desenvolvimento base provendo as codificações automatizadoras que constroem as réplicas simultâneas de servidores AWS sob script nativo declarativo (User Data). |
+| <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs" alt="NestJS / TypeScript"><br>**TypeScript, Node.js & NestJS** | Base arquitetural da API corporativa utilizando isolamento e injeção de dependências em módulos escaláveis. |
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Database"><br>**PostgreSQL, MongoDB & Prisma** | Modelagem transacional segura mesclando bancos relacionais e NoSQL, orquestrados através de tipagem estrita com o ORM. |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Mobile e Web"><br>**React Native (Expo), Next.js & Tailwind CSS** | Desenvolvimento integrado das frentes interativas Mobile e Web, focando num ecossistema reativo e estilização utility-first. |
+| <img src="https://skillicons.dev/icons?i=docker,aws,terraform" alt="Infraestrutura"><br>**Docker, AWS EC2 & Terraform** | Conteinerização estruturada de serviços e provisionamento "Infra-as-Code" instanciando os servidores na nuvem de forma nativa e escalável. |
+| <img src="./files/pngegg.png" width=30 alt="Websockets"> <img src="https://skillicons.dev/icons?i=git,figma" alt="Ferramentas"><br>**Websockets, MinIO & Swagger** | Estabelecimento da comunicação in-time do chat bidirecional, documentação dinâmica rigorosa de endpoints e persistência de imagens (S3). |
 
 ### Contribuições Pessoais
-Ascendi como líder arquitetural tomando inteiramente a frente como **Dev Backend Lead**. Elaborei um fluxo inquestionavelmente seguro através das bases de diagrama isolando módulos, e fui o absoluto detentor regrador do versionamento assumindo "Code Ownership", guiando revisões puristas severas no padrão do time mantendo extrema obediência na aplicação aos códigos nas pull-requests (Clean Code) sob amparo relacional estruturado no Node base. Integrei com injeção segura na base Nestjs as lógicas transacionais conectivas implementadas as reatividades síncronas semânticas via WebSockets amparando suportes interativos sem perda paralela no banco isolador estático configurado as rotinas provedoras MinIO S3 resguardando envios de imagens dos tickets reativos nativamente.
-Na infraestrutura decidi ir à frente garantindo horizontes supremos automatizantes construindo alicerces em automação codificada no ambiente Cloud (IaC), utilizando integralmente na central a linguagem da declarativa e modular orientada aos scripts "user datas" no **Terraform** impulsionando a arquitetura instanciadora com criação dinâmica paralela de cópias efetuando horizontes para superação elástica natural suportando os dimensionamentos englobadores providos ao atendimento sem instabilidade reativa sob pico.
+Atuei como **Backend Lead**, liderando decisões arquiteturais e definindo padrões técnicos do projeto. Estruturei a organização dos módulos e fluxos da aplicação, além de assumir o *code ownership* da base, conduzindo revisões de código e garantindo consistência nas pull requests com foco em Clean Code, padronização e escalabilidade.
+No backend, desenvolvi integrações e fluxos transacionais utilizando Node.js e NestJS, incluindo comunicação em tempo real via WebSockets para suportar atendimentos interativos sem perda de contexto. Também implementei integrações com MinIO S3 para gerenciamento seguro de uploads e armazenamento de imagens relacionadas aos tickets da plataforma.
+Na infraestrutura, participei ativamente da evolução da arquitetura cloud, automatizando provisionamento e configuração de ambientes com Terraform e scripts de user data. A solução foi desenhada para suportar escalabilidade horizontal, permitindo criação dinâmica de instâncias e maior resiliência da aplicação em cenários de alto volume de atendimento.
+
 
 ### Hard Skills
-- **Arquitetura Modular Isolada e Websockets (Nest.js/Ts)** — Faço com autonomia
-- **Elaboração Infra-as-Code AWS EC2 (Terraform)** — Faço com autonomia
-- **Reconhecimento Clean-Code e Liderança Repositório** — Faço com autonomia
+- **Arquitetura Modular Isolada e API Rest (NestJS/Node.js)** — Faço com autonomia
+- **Modelagem de Dados e ORM (PostgreSQL, MongoDB e Prisma)** — Faço com autonomia
+- **Integração Real-Time e Storage (Websockets e MinIO S3)** — Faço com autonomia
+- **Provisionamento Cloud IaC e Conteinerização (Terraform, AWS, Docker)** — Faço com autonomia
+- **Liderança Técnica, Code Ownership e Documentação (Git, Swagger, Clean Code)** — Faço com autonomia
 
 ### Soft Skills
 - **Liderança Impulsionadora Sustentadora Sistêmica:** Revisando linhas incansavelmente sem abafar meus cooperadores guiando perante transições mitigadas de arquiteturas puras instintivas erradicadoras no código sem quebra motivacional imposta de exigências.
